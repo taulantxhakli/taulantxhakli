@@ -5,7 +5,7 @@
 - 🤝 I am looking to collaborate on any open source project
 - 📧 How to reach me: txhakli@gmail.com
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools 🔧
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)
