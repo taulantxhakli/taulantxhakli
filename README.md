@@ -1,11 +1,11 @@
-## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif) Welcome to my cave ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
+## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif) Welcome To My Cave ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
 
 - 🛠 I am currently working on my portfolio and resume
 - 🌴 I am currently perfecting my craft
 - 🤝 I am looking to collaborate on any open source project
 - 📧 How to reach me: txhakli@gmail.com
 
-## 🔧 Technologies & Tools 🔧
+## 🔧 Technologies Stack 🔧
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)
