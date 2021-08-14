@@ -3,7 +3,8 @@
 - 🛠 I am currently working on my portfolio and resume
 - 🌴 I am currently perfecting my craft
 - 🤝 I am looking to collaborate on any open source project
-- 📧 How to reach me: txhakli@gmail.com
+- 📧 Business related contact: txhakli@gmail.com
+- 🍌 Non-business related contact: taulant#1999 
 
 ## 🔧 Technologies Stack 🔧
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=blueviolet)
