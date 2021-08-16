@@ -4,7 +4,7 @@
 - 🌴 I am currently perfecting my craft
 - 🤝 I am looking to collaborate on any open source project
 - 📧 Business related contact: txhakli@gmail.com
-- 🍌 Non-business related contact: taulant#1999 
+- 🍌 Non-business related contact: taulant#7100 
 
 ## 🔧 Technologies Stack 🔧
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=blueviolet)
