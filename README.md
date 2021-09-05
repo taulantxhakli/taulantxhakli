@@ -1,6 +1,6 @@
 ## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif) Welcome To My Cave ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
 
-- 🛠 I am currently working on my portfolio and resume
+- 🛠 I am currently job hunting and studying
 - 🌴 I am currently perfecting my craft
 - 🤝 I am looking to collaborate on any open source project
 - 📧 Business related contact: txhakli@gmail.com
