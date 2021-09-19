@@ -2,7 +2,7 @@
 
 - 🛠 I am currently job hunting and studying
 - 📧 Business related contact: txhakli@gmail.com
-- 🍌 Non-business related contact: taulant#1999
+- 🍌 Non-business related contact: philly#1999
 
 ## 🔧 Technologies Stack 🔧
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=blueviolet)
